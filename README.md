@@ -23,10 +23,10 @@ These figures are transcribed from the accompanying academic report; they are no
 
 The `screenshots/` folder contains report-derived charts and a reconstructed pipeline diagram. They are portfolio figures, **not screenshots of a deployed application or a live notebook**.
 
-![Pipeline architecture](screenshots/04-pipeline-architecture.png)
-![Document filtering](screenshots/01-document-filtering.png)
-![Model performance](screenshots/02-model-performance.png)
-![Label distribution](screenshots/03-label-distribution.png)
+![Pipeline architecture](04-pipeline-architecture.png)
+![Document filtering](01-document-filtering.png)
+![Model performance](02-model-performance.png)
+![Label distribution](03-label-distribution.png)
 
 ## Technology described in the report
 
